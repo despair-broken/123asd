@@ -1,0 +1,29 @@
+.wrapper {
+    padding: 20px;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.item {
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    margin-bottom: 12px;
+
+    .name {
+        font-size: 18px;
+        font-weight: 700;
+        margin-bottom: 8px;
+    }
+
+    .info {
+        margin: 4px 0;
+    }
+}
